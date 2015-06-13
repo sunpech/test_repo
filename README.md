@@ -1,5 +1,7 @@
 # test_repo
 
+This is a test repo. Nothing important here.
+
 ## Bacon ipsum
 
 [baconipsum.com](https://baconipsum.com/)
@@ -26,7 +28,7 @@ Does your lorem ipsum text long for something a little meatier? Give our generat
 
 Test
 
-## Renamed this section
+## This is named differently than on Github
 
 Ribeye salami filet mignon pork rump pork belly t-bone venison. Bacon tail leberkas filet mignon sausage pig corned beef hamburger ribeye jerky pork chop boudin pancetta kevin. Turducken filet mignon ribeye chicken bacon ground round rump sirloin. Tail kielbasa pancetta pork capicola bresaola chuck jowl tenderloin rump. Strip steak pork belly short ribs turkey, pancetta alcatra brisket ground round. Corned beef pancetta beef shoulder sausage fatback ribeye sirloin short loin. Picanha corned beef short loin landjaeger, andouille bresaola sausage pork loin sirloin.
 
